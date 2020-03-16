@@ -4,4 +4,4 @@ Writing and uploading lists to Listy lets people easily share them privately wit
 have the ability to save lists and have a personalized collection of lists. You can also
 allow other users edit and update the content of a list.
 
-### This is a 4 members term project 
+##### This is a 4 members term project 
